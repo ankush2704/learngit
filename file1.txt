@@ -3,3 +3,4 @@ file 1 second line added
 file 1 3rd line added
 file 1 4th line added
 file 1 5th line added
+file 1 a new line again added

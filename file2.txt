@@ -1,1 +1,3 @@
 file 2 first line added
+file 2 2nd line added
+file 2 3rd line added
