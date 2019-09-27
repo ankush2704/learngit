@@ -2,3 +2,4 @@ file 2 first line added
 file 2 2nd line added
 file 2 3rd line added
 file 2 new line is added from branch B1
+fle 2 line added due to issue fix
