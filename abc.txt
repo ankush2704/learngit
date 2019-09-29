@@ -1,2 +1,3 @@
 this file is in branch myBranch
-file modified
+file modified to check fetch
+
