@@ -1,7 +1,5 @@
 this file is in branch myBranch
-<<<<<<< HEAD
 file modified to check fetch
-
-=======
 added this line from web
->>>>>>> myBranch
+edwedf
+sfwfwef sargrergw
